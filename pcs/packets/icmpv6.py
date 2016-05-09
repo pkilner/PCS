@@ -36,7 +36,8 @@
 
 import pcs
 import pcs.packets.pseudoipv6
-import pcs.packets.ipv4
+from pcs.packets.ipv4 import ipv4
+
 
 import struct
 
